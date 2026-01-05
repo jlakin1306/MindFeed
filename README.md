@@ -2,11 +2,11 @@
 
 # About
 ### MindFeed transforms everyday scrolling into meaningful learning moments. This educational app generates AI-powered videos that make learning any topic fast, enjoyable, and accessible to everyone.
+
 # What It Does
 ### MindFeed creates short educational videos on demand, delivering content in two unique styles:
-
-### Academic Mode: Straightforward learning with clear explanations
-### Brainrot Mode: Fun, entertaining delivery inspired by social media trends
+  ###   Academic Mode: Straightforward learning with clear explanations
+  ###   Brainrot Mode: Fun, entertaining delivery inspired by social media trends
 
 ### Simply enter a topic you want to learn about, choose your preferred mode, and MindFeed generates a custom video just for you. All videos are saved locally so you can revisit them anytime.
 # Why We Built This
