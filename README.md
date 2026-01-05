@@ -1,7 +1,7 @@
 # MindFeed
 
 # About
-# MindFeed transforms everyday scrolling into meaningful learning moments. This educational app generates AI-powered videos that make learning any topic fast, enjoyable, and accessible to everyone.
+## MindFeed transforms everyday scrolling into meaningful learning moments. This educational app generates AI-powered videos that make learning any topic fast, enjoyable, and accessible to everyone.
 # What It Does
 # MindFeed creates short educational videos on demand, delivering content in two unique styles:
 
